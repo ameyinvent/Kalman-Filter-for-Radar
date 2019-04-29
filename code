@@ -10,3 +10,4 @@ dt = 0.1;       % Sampling rate
 % State transition matrix
 
     % State prediction
+    A = [1 dt; 0 1];
