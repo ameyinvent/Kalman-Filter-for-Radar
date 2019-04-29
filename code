@@ -3,4 +3,6 @@ close all
 %%Define Meta-variables
 
 duration = 5;  % Duration of movement
+dt = 0.1;       % Sampling rate
+
 
