@@ -2,3 +2,5 @@ clear all
 close all
 %%Define Meta-variables
 
+duration = 5;  % Duration of movement
+
